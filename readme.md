@@ -1,6 +1,5 @@
-![](doge.jpg)
 
-<img src="https://github.com/Adamnator92/RnWebview/blob/master/doge.jpg" height="48" width="48" >
+<img src="https://github.com/Adamnator92/RnWebview/blob/master/assets/doge.jpg" height="360" width="640" >
 
 # React-Native WebView playground
 I just want to build some shit!
@@ -11,6 +10,7 @@ I just want to build some shit!
 * Code by troller programmer, use at your own risk
 * Messy and unmaintainable code
 * Code for fun purposes
+* Didnt follow any code standard, i rule 
 ```
 function me() {
     var fuck = 0;
@@ -18,4 +18,5 @@ function me() {
 }
 ```
 
+![](assets/smart.jpg)
 
